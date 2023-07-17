@@ -6,4 +6,4 @@ export const COORDINATES = {
 };
 
 export const MAP_BOX_TOKEN = (mapboxgl.accessToken =
-  process.env.REACT_APP_MAPBOX_ACCESS_TOKEN);
+  "pk.eyJ1IjoiaGltYW5zaHU3MTQiLCJhIjoiY2xrNDhqYWF0MDlhaDNrcjBxdGFyMzB3ZSJ9.t1QSmLF95KHornR6QsVDMw");
